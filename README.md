@@ -1,6 +1,5 @@
 <h1>World Map</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This new project involved creating a comprehensive website that provides information on each country in the world.
